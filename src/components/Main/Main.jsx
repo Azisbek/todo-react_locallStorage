@@ -55,10 +55,11 @@ const FormBlock = styled.div`
   border-radius: 10px;
   box-shadow: 5px 5px 10px;
   padding: 20px 50px;
-  width: 1300px;
+  width: 80%;
   display: flex;
   flex-direction: column;
   align-items: center;
+
   gap: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -68,7 +69,7 @@ const ContainerPost = styled.main`
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
-  width: 1300px;
+  width: 80%;
   margin: 0 auto;
 `;
 

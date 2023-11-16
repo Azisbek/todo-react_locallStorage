@@ -41,6 +41,7 @@ const Headers = styled.header`
   }
   ul {
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 30px;
     list-style: none;
